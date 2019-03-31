@@ -1,2 +1,2 @@
-# Image-Steganography-in-Java
+# Steganography
 Image Steganography using Java
